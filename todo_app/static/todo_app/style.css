@@ -1,0 +1,49 @@
+@import url('https://fonts.cdnfonts.com/css/great-journal-four');
+@import url('https://fonts.cdnfonts.com/css/kitchen-counter');
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.tasklist {
+    height: 509px;
+    overflow-y: auto; 
+    background-color: whitesmoke;
+    padding: 19px;
+    border-radius: 4px;
+}
+.second_form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card{
+    padding: 4px 3px;
+}
+
+.done{
+    cursor: default;
+}
+
+.bot-done{
+    width: 34px;
+    height: 36px;
+}
+
+.big-text{
+    font-family: 'Great Journal Four', sans-serif;
+    font-size: 78px;
+}
+
+.alert-dismissible{
+    font-family: 'Kitchen Counter', sans-serif;
+    font-size: 26px;
+                                                
+}
+
+.st_task{
+    font-family: 'Kitchen Counter', sans-serif;        
+    font-size: 28px;                    
+}
