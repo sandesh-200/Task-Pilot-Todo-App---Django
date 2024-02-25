@@ -27,7 +27,7 @@ Prerequisites
 5. Access the Todo app at http://127.0.0.1:8000/ and log in with the superuser credentials created in step 3.
 
 <h2>Usage</h2>
-1. Once the development server is running, visit http://127.0.0.1:8000/ in your browser.
-2. Log in with your superuser credentials.
-3. Start managing your tasks by creating, editing, and marking tasks as completed.
-4. Use the due date feature to prioritize and organize your tasks.
+Once the development server is running, visit http://127.0.0.1:8000/ in your browser.
+Log in with your superuser credentials.
+Start managing your tasks by creating, editing, and marking tasks as completed.
+Use the due date feature to prioritize and organize your tasks.
