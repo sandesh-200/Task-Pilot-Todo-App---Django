@@ -7,7 +7,6 @@ Task Pilot is a simple and efficient Todo web application built using Django. Ke
 - Create, edit, and delete tasks
 - Mark tasks as completed
 - Prioritize tasks with due dates
-- User authentication for personalized task management
 
 <h2>Getting Started</h2>
 
